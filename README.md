@@ -1,5 +1,9 @@
 # 👋 Olá, me chamo Janaina
 
+<p align="center">
+  <img src="**NOME-DA-SUA-IMAGEM.png**" width="800px">
+</p>
+
 🎓 Téc. em Informática para a Internet - IFRN  
 🌱 Atualmente estudando Python  
 🎯 Objetivo: Expandir meus conhecimentos e atuar como Desenvolvedora  
