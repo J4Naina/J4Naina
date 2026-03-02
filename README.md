@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Janaina
 
 <p align="center">
-  <img src="ChatGPT Image 2 de mar. de 2026, 17_18_45" width="800px">
+  <img src="minhaversãodevanimada.png" width="800px">
 </p>
 
 🎓 Téc. em Informática para a Internet - IFRN  
@@ -25,10 +25,6 @@
 - Estruturas de Dados
 - Lógica de Programação
 - Versionamento com Git e GitHub
-
----
-
-![Janaina GitHub stats](https://github-readme-stats.vercel.app/api?username=J4Naina&show_icons=true&theme=radical)
 
 ---
 
