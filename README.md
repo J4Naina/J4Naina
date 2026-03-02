@@ -24,4 +24,8 @@
 
 ---
 
+![Janaina GitHub stats](https://github-readme-stats.vercel.app/api?username=J4Naina&show_icons=true&theme=radical)
+
+---
+
 ✨ Obrigada por visitar meu perfil!
