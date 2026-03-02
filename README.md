@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Janaina
 
 <p align="center">
-  <img src="**NOME-DA-SUA-IMAGEM.png**" width="800px">
+  <img src="ChatGPT Image 2 de mar. de 2026, 17_18_45" width="800px">
 </p>
 
 🎓 Téc. em Informática para a Internet - IFRN  
